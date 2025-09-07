@@ -1,0 +1,34 @@
+
+# ML/DL
+torch
+torchvision
+tensorflow
+
+
+# Computer Vision
+opencv-python
+scikit-image
+pillow
+imageio
+
+# Detection
+ultralytics
+supervision
+rfdetr
+
+# Data Processing
+numpy
+pandas
+scipy
+scikit-learn
+umap-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+bokeh
+
+# Utilities
+tqdm
+jupyter
