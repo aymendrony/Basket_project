@@ -10,7 +10,7 @@
 - **Frame annotée** :
 ![Clustering annotation](output/annotated_img.png)
 
-
+En raison de la taille des modèles et des visualisations, on a décidé de les mettre sur drive et vous pouvez les consulter directement via ce lien : https://drive.google.com/drive/folders/183f0wHigSy_S76Y08t2-pyPvP7xptyx9?usp=sharing , l’arborescence du projet reste tout de meme inchangée
 
 ## Description  
 Ce projet propose une pipeline développée pour l’analyse d’un match de **basket-ball** à partir de vidéos.  
